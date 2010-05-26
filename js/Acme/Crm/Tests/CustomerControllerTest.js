@@ -32,7 +32,7 @@ _.prototype.test_When_there_are_customers_then_they_must_be_in_the_list_of_custo
 			details: "Er en ordentlig kar som vi maa behandle godt"
 		},{
 			name: "Nilse Mann",
-			details: "En kjeltring. Du skulle sett hva han gjorde på Loerdag!"
+			details: "En kjeltring. Du skulle sett hva han gjorde paa Loerdag!"
 		},{
 			name: "Kari Nordmann",
 			details: "Flott dame!"
@@ -57,7 +57,7 @@ _.prototype.test_When_there_is_a_customer_in_list_of_customers_view_then_custome
 			details: "Er en ordentlig kar som vi maa behandle godt"
 		},{
 			name: "Nilse Mann",
-			details: "En kjeltring. Du skulle sett hva han gjorde på Loerdag!"
+			details: "En kjeltring. Du skulle sett hva han gjorde paa Loerdag!"
 		},{
 			name: "Kari Nordmann",
 			details: "Flott dame!"
