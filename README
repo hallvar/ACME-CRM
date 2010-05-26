@@ -2,3 +2,6 @@ ACME CRM is an overly small sample of a JavaScript application using Joddes
 
 Copyright (c) 2010, Hallvar Helleseth (hallvar@gmail.com). All Rights Reserved.
 Released under the MIT licence (www.opensource.org/licenses/mit-license.php) 
+
+
+Shows off simple TDD/BDD with mocking in JavaScript
