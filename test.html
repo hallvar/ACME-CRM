@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>ACME CRM Testrunner</title>
+		<link rel="stylesheet" type="text/css" href="styles/Acme/screen.css"/>
+    </head>
+    <body>
+	<script src="js/Joddes/Joddes.js"></script>
+    	<script src="js/jsmock.js"></script>
+		<script src="js/Acme/Crm/Tests/CustomerControllerTest.js"></script>
+		<script>
+			JDS.onusingsloaded = function() {
+				var test = new Acme.Crm.Tests.CustomerControllerTest();
+				test.run();
+			}
+		</script>
+	</body>
+</html>
